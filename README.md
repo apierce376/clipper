@@ -28,4 +28,4 @@ Clipper is run through the command line and supports the following commands
 This project does *NOT* include FFMpeg or FFProbe binaries and they must be downloaded separately. `ffmpeg.exe` and `ffprobe.exe` can be downloaded from [FFBinaries](https://ffbinaries.com/downloads) and they should be placed in the same directory as `clipper.exe` before running.
 
 ## Building
-The project can be built with `dotnet build`
+The project can be built with `dotnet build` and requires dotnet 10 to build and run.
